@@ -1,9 +1,7 @@
-LOVECRAFT EBOOKS
+STYX EBOOKS
 ======
 
-Note: I have not tested this code on Twitter API v1.1
-
-This is a twitter bot based on [Shabda Raaj's markovgen.py](http://agiliq.com/blog/2009/06/generating-pseudo-random-text-with-markov-chains-u/) and [the_shrinkbot](https://github.com/jiko/the_shrinkbot). Shout-outs to [Harry Schwartz](https://github.com/hrs), [Vivek Haldar](https://github.com/vivekhaldar), [widefidelity](https://twitter.com/widefidelity/status/266230134053425153), and [Shabda Raaj](http://agiliq.com/blog/author/shabda/).
+This is a fork of [James Koppen's Lovecraft_ebooks](https://github.com/jiko/lovecraft_ebooks) a twitter bot based on [Shabda Raaj's markovgen.py](http://agiliq.com/blog/2009/06/generating-pseudo-random-text-with-markov-chains-u/) and [the_shrinkbot](https://github.com/jiko/the_shrinkbot).
 
 Requires:
 * Python 2.6 or later. Not tested with Python 3.
@@ -15,4 +13,4 @@ Once you have your environment setup, run:
 
 See init_twit.py for info on setting up your Twitter application.
 
-Corpus sourced from [Pirate](http://thepiratebay.se/torrent/7760619/H.P._Lovecraft_Complete_Collection_on_MOBI#filelistContainer) [Bay](http://thepiratebay.se/torrent/7711512/H._P._Lovecraft_ebooks_collection_[republicV]#filelistContainer). I claim no rights over this material besides fair use. All code is under the MIT license.
+Corpus sourced from [Project Gutenberg](http://www.gutenberg.org/ebooks/author/979). I claim no rights over this material besides fair use. All code is under the MIT license.
